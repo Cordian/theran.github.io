@@ -6,7 +6,7 @@ speakershortinst: Frankfurt
 speakerurl: http://www.uni-frankfurt.de/52084422/Theobald
 talktitle:  "Polyhedra, spectrahedra and the question of containment"
 talkdate: 2.3.2015
-talktime: 14.15 (sharp!)
+talktime: 12.30 (sharp!)
 talkplace: AScI
 title: "Large Structures Seminar - Thorsten Theobald"
 ---
